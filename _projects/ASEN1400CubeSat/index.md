@@ -13,5 +13,4 @@
 
 This project involved designing and testing a CubeSat payload.
 
-![pre-launch open](IMG_9602.jpeg)
-![pre-launch closed](IMG_9548.jpeg)
+{% include image-gallery.html images="IMG_9548.jpeg, IMG_9602.jpeg" height="400" %}
