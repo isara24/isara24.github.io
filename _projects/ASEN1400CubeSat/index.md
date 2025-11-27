@@ -13,5 +13,5 @@
 
 This project involved designing and testing a CubeSat payload.
 
-![pre-launch open](_projects/ASEN1400CubeSat/IMG_9602.jpeg)
+![pre-launch open](IMG_9602.jpeg)
 ![pre-launch closed](_projects/ASEN1400CubeSat/IMG_9548.jpeg)
