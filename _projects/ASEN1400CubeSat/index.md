@@ -13,5 +13,5 @@
 
 This project involved designing and testing a CubeSat payload.
 
-![Vacuum Chamber Test](_projects/ASEN 1400 CubeSat/IMG_9602.jpeg)
-![Team Assembly](_projects/ASEN 1400 CubeSat/IMG_9548.jpeg)
+![pre-launch open](_projects/ASEN1400CubeSat/IMG_9602.jpeg)
+![pre-launch closed](_projects/ASEN1400CubeSat/IMG_9548.jpeg)
