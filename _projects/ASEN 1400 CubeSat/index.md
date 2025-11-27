@@ -8,5 +8,5 @@
     - Arduino IDE
     - Soldering
     - Vacuum test
-  main-image: /project.webp 
+  main-image: /IMG_9380.jpeg
   ---
