@@ -9,5 +9,9 @@
   - Soldering
   - Vacuum test
   main-image: /IMG_9380.jpeg
-  side-image: /IMG_9548.jpeg
 ---
+
+This project involved designing and testing a CubeSat payload.
+
+![Vacuum Chamber Test](/IMG_9548.jpeg)
+![Team Assembly](/IMG_9602.jpeg)
